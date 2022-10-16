@@ -37,7 +37,7 @@
 - Class Balancing with Augmentor has helped in improving model performance.
 - Augmentation also helped to control the initial overfitting issue.
 - Training v/s Validation Accuracy has increased steadily.
-- Training Accuracy 97% And Validation Accuracy 88% achived.
+- Training Accuracy ~93% And Validation Accuracy ~80% achieved.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
